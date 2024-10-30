@@ -21,3 +21,6 @@ docarray
 pinecone
 langchain-pinecone
 ipywidgets
+langgraph
+faiss-cpu
+langchain-cohere
